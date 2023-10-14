@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "测试数据库连接", "测试数据库连接\测试数据库连接.csproj", "{B2296391-5EC2-4FC9-BE0F-B8912DB29303}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "从环境变量中读取数据库字符串连接", "从环境变量中读取数据库字符串连接\从环境变量中读取数据库字符串连接.csproj", "{56083F79-76D4-4D29-BA2E-F497BB43436A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "数据库", "数据库", "{032C4AD6-19B2-4206-A455-E3AB597A06D5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "身份认证", "身份认证", "{589397B4-0F41-4B8B-A504-0359486467C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "自定义身份认证", "自定义身份认证\自定义身份认证.csproj", "{23E280BB-6BDA-43A3-9756-E0F3B55FB4FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2296391-5EC2-4FC9-BE0F-B8912DB29303}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2296391-5EC2-4FC9-BE0F-B8912DB29303}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2296391-5EC2-4FC9-BE0F-B8912DB29303}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2296391-5EC2-4FC9-BE0F-B8912DB29303}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56083F79-76D4-4D29-BA2E-F497BB43436A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56083F79-76D4-4D29-BA2E-F497BB43436A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56083F79-76D4-4D29-BA2E-F497BB43436A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56083F79-76D4-4D29-BA2E-F497BB43436A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23E280BB-6BDA-43A3-9756-E0F3B55FB4FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23E280BB-6BDA-43A3-9756-E0F3B55FB4FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23E280BB-6BDA-43A3-9756-E0F3B55FB4FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23E280BB-6BDA-43A3-9756-E0F3B55FB4FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B2296391-5EC2-4FC9-BE0F-B8912DB29303} = {032C4AD6-19B2-4206-A455-E3AB597A06D5}
+		{56083F79-76D4-4D29-BA2E-F497BB43436A} = {032C4AD6-19B2-4206-A455-E3AB597A06D5}
+		{23E280BB-6BDA-43A3-9756-E0F3B55FB4FE} = {589397B4-0F41-4B8B-A504-0359486467C9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F885DC5-824B-40EA-BA44-4B3AA43FC7F6}
+	EndGlobalSection
+EndGlobal

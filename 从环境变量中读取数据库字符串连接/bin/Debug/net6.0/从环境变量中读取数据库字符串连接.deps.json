@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "从环境变量中读取数据库字符串连接/1.0.0": {
+        "runtime": {
+          "从环境变量中读取数据库字符串连接.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "从环境变量中读取数据库字符串连接/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

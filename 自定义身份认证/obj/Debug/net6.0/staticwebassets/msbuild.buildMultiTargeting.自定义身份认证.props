@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\自定义身份认证.props" />
+</Project>
