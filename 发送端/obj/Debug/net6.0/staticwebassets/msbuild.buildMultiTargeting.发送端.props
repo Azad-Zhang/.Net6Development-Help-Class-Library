@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\发送端.props" />
+</Project>

@@ -1,0 +1,15 @@
+D:\aspZuoye\开发帮助类库\获取服务器上的文件\bin\Debug\net6.0\获取服务器上的文件.exe
+D:\aspZuoye\开发帮助类库\获取服务器上的文件\bin\Debug\net6.0\获取服务器上的文件.deps.json
+D:\aspZuoye\开发帮助类库\获取服务器上的文件\bin\Debug\net6.0\获取服务器上的文件.runtimeconfig.json
+D:\aspZuoye\开发帮助类库\获取服务器上的文件\bin\Debug\net6.0\获取服务器上的文件.dll
+D:\aspZuoye\开发帮助类库\获取服务器上的文件\bin\Debug\net6.0\获取服务器上的文件.pdb
+D:\aspZuoye\开发帮助类库\获取服务器上的文件\obj\Debug\net6.0\获取服务器上的文件.csproj.AssemblyReference.cache
+D:\aspZuoye\开发帮助类库\获取服务器上的文件\obj\Debug\net6.0\获取服务器上的文件.GeneratedMSBuildEditorConfig.editorconfig
+D:\aspZuoye\开发帮助类库\获取服务器上的文件\obj\Debug\net6.0\获取服务器上的文件.AssemblyInfoInputs.cache
+D:\aspZuoye\开发帮助类库\获取服务器上的文件\obj\Debug\net6.0\获取服务器上的文件.AssemblyInfo.cs
+D:\aspZuoye\开发帮助类库\获取服务器上的文件\obj\Debug\net6.0\获取服务器上的文件.csproj.CoreCompileInputs.cache
+D:\aspZuoye\开发帮助类库\获取服务器上的文件\obj\Debug\net6.0\获取服务器上的文件.dll
+D:\aspZuoye\开发帮助类库\获取服务器上的文件\obj\Debug\net6.0\refint\获取服务器上的文件.dll
+D:\aspZuoye\开发帮助类库\获取服务器上的文件\obj\Debug\net6.0\获取服务器上的文件.pdb
+D:\aspZuoye\开发帮助类库\获取服务器上的文件\obj\Debug\net6.0\获取服务器上的文件.genruntimeconfig.cache
+D:\aspZuoye\开发帮助类库\获取服务器上的文件\obj\Debug\net6.0\ref\获取服务器上的文件.dll

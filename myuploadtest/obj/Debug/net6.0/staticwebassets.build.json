@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "Znmd8V5UJH0cpc35mWzHqu7V4atOBJenghgBxAU6X/c=",
+  "Source": "myuploadtest",
+  "BasePath": "_content/myuploadtest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "myuploadtest\\wwwroot",
+      "Source": "myuploadtest",
+      "ContentRoot": "D:\\aspZuoye\\开发帮助类库\\myuploadtest\\wwwroot\\",
+      "BasePath": "_content/myuploadtest",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

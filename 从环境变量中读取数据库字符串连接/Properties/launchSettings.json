@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "从环境变量中读取数据库字符串连接": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:52060;http://localhost:52061"
+    }
+  }
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\configReander.props" />
+</Project>
